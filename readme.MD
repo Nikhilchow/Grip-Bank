@@ -11,4 +11,4 @@
 
 ## ScreenShots 
 
-![screenshot](Grip-Bank/img/screenshot.jpg)
+![screenshot](img/screenshot.jpg)
